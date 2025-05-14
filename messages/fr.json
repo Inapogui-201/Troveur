@@ -1,0 +1,31 @@
+{
+  "Footer": {
+    "logoAlt": "Logo Troveur",
+    "description": "Troveur connecte voyageurs et acheteurs pour des achats internationaux simplifiés. Rejoignez notre communauté pour un commerce mondial accessible et économique.",
+    "socialLinks": {
+      "title": "Réseaux Sociaux"
+    },
+    "quickLinks": {
+      "title": "Liens Rapides",
+      "about": "À propos",
+      "services": "Services", 
+      "contact": "Contact",
+      "blog": "Blog"
+    },
+    "contact": {
+      "title": "Contactez-nous",
+      "email": "contact@troveur.com",
+      "phone": "+212 669 646 759",
+      "address": "2 boulevard Bahamed, Casablanca, Maroc"
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "placeholder": "Votre email",
+      "submit": "S'abonner",
+      "submitting": "Envoi en cours...",
+      "success": "Inscription à la newsletter réussie !",
+      "error": "Une erreur s'est produite. Veuillez réessayer."
+    },
+    "copyright": "Troveur. Tous droits réservés."
+  }
+}

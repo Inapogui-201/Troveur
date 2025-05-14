@@ -1,4 +1,20 @@
+# Letasite Project
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Project Structure
+
+```
+src/
+├── app/
+│   ├── (layouts)/            # Shared layout components
+│   ├── (components)/          # Reusable UI components
+│   ├── api/                  # API route handlers
+│   ├── page.tsx              # Home page
+│   └── layout.tsx            # Root layout
+├── components/               # Additional components if needed
+└── lib/                      # Utility functions and helpers
+```
 
 ## Getting Started
 
